@@ -77,51 +77,29 @@ python3 drum_controller.py
 ## Control Mapping
 
 ### Regular Mode
-
-| Drum Pad     | Function                     |
-
-|--------------|------------------------------|
-
-| Green        | Next Track                   |
-
-| Blue         | Play/Pause                   |
-
-| Yellow       | Previous Track               |
-
-| Red          | Mute/Unmute                  |
-
-| Kick Pedal   | *Modifier for colored pads*  |
-
-| Plus         | Volume Up (+5%)              |
-
-| Minus        | Volume Down (-5%)            |
-
-| Pad 1        | Play "Self Care" track       |
-
-| Pad 2        | Play "The Way I Am" track    |
-
-| Pad A        | Play "Sabotage" track        |
-
-| Pad B        | Play "Island in the Sun"     |
+Drum Pad | Function
+--- | ---
+Green | Next Track
+Blue | Play/Pause
+Yellow | Previous Track
+Red | Mute/Unmute
+Kick Pedal | *Modifier for colored pads*
+Plus | Volume Up (+5%)
+Minus | Volume Down (-5%)
+Pad 1 | Play "Self Care" track
+Pad 2 | Play "The Way I Am" track
+Pad A | Play "Sabotage" track
+Pad B | Play "Island in the Sun"
 
 ### Orange Button Mode (Hold Orange + Hit Pad)
-
-| Drum Pad     | Function                     |
-
-|--------------|------------------------------|
-
-| Green        | Volume Up (+10%)             |
-
-| Red          | Volume Down (-10%)           |
-
-| Yellow       | Play Top 2022 Playlist       |
-
-| Blue         | Play Top 10 Playlist         |
-
-| Plus         | Max Volume (100%)            |
-
-| Minus        | Low Volume (10%)             |
-
+Drum Pad | Function
+--- | ---
+Green | Volume Up (+10%)
+Red | Volume Down (-10%)
+Yellow | Play Top 2022 Playlist
+Blue | Play Top 10 Playlist
+Plus | Max Volume (100%)
+Minus | Low Volume (10%)
 ## Troubleshooting
 
 - **Device not detected**:
